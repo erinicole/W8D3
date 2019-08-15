@@ -1,0 +1,29 @@
+/* PHASE 3: Layout */
+
+/* .parent {
+  display:flex;
+} */
+.content {
+display:flex;
+width: 900px;
+min-height: 200px;
+height: 250px;
+padding-left: 509px;
+}
+
+.content-sidebar {
+width: 250px;
+min-height: 200px;
+height: 250px;
+background: white;
+border: solid gray
+}
+
+.content-main { 
+width: 651px;
+min-height: 200px;
+height: 250px;
+background: white;
+border: solid gray
+
+}
